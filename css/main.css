@@ -3,14 +3,8 @@
 }
 
 body {
-    background-color: blue;
     padding: 20px;
     font-family: Arial;
-}
-
-.main {
-    max-width: 1000px;
-    margin: auto;
 }
 
 h1 {
@@ -18,7 +12,12 @@ h1 {
     word-break: break-all;
 }
 
-img {
-    width: 25%;
-    height: 25%;
+.header {
+    height: 100vh;
+    display: flex;
+}
+
+.main {
+    height: 100vh;
+    display: flex;
 }
