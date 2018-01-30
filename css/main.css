@@ -7,17 +7,7 @@ body {
     font-family: Arial;
 }
 
-h1 {
-    font-size: 50px;
-    word-break: break-all;
-}
-
-.header {
-    height: 100vh;
-    display: flex;
-}
-
-.main {
-    height: 100vh;
-    display: flex;
+img {
+    height: 25%;
+    width: 25%;
 }
