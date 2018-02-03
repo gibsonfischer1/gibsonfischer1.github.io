@@ -38,7 +38,6 @@ a {
 .header {
   align-items: center;
   background-color: #EFEFEF;
-  background-image: url(images/Logo1.jpg);
   background-repeat: no-repeat;
   background-size: 100% auto;
   border-top: 4px solid red;
@@ -53,11 +52,6 @@ a {
   text-align: center;
 }
 
-@media only screen and (max-device-width: 420px)  {
-  .header {
-    background-size: auto 100%;
-  }
-}
 
 .skills {
   background: #e91e63;
