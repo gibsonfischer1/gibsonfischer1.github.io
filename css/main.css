@@ -5,7 +5,6 @@
 }
 
 body {
-  background: blue;
   color: black;
   font-size: 22px;
   margin: 0;
@@ -22,10 +21,7 @@ p {
 }
 
 a {
-  color: yellow;
   font-weight: 600;
-  border-bottom: 3px solid purple;
-  padding: 3px;
 }
 
 .content-wrapper {
@@ -37,11 +33,10 @@ a {
 
 .header {
   align-items: center;
-  background-color: #EFEFEF;
+  background-color: grey;
   background-repeat: no-repeat;
   background-size: 100% auto;
-  border-top: 4px solid red;
-  color: #868484;
+  border-top: 4px solid;
   display: flex;
   flex-direction: column;
   height: 40vh;
@@ -52,8 +47,17 @@ a {
   text-align: center;
 }
 
+img {
+  height: 25%;
+  width: 25%;
+}
+
 
 .skills {
   background: #e91e63;
   color: white;
+}
+
+#links {
+  background-color: grey;
 }
