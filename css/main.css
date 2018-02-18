@@ -39,7 +39,6 @@ a {
   border-top: 4px solid;
   display: flex;
   flex-direction: column;
-  height: 40vh;
   justify-content: center;
   min-height: 250px;
   padding: 0 20px;
