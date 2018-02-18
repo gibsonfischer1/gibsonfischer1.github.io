@@ -1,8 +1,8 @@
-let aNumber = 69
-let aString = 'test for GIS class'
-let aBoolean = true
-let aArray = ['sunday', 'monday', 'tuesday']
-console.log(aNumber)
-console.log(aString)
-console.log(aBoolean)
-console.log(aArray)
+let projectID = 1
+let projectTitle = 'Gibsons Locations'
+let projectComponents = true
+let projectList = ['title', 'thumb', 'url', 'desc']
+console.log('ID: ' + projectID)
+console.log('Title: ' + projectTitle)
+console.log('Project has all components: ' + projectComponents)
+console.log('List of components: ' + projectList)
